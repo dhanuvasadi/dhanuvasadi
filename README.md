@@ -66,9 +66,7 @@ I am documenting my journey of learning and building with AI:
 
 ---
 
-## 🚀 Featured Projects
 
-Coming Soon:
 
 ### 🤖 AI Data Assistant
 An AI assistant that helps users interact with data using natural language.
@@ -96,7 +94,7 @@ AI-Powered Data Solutions
 ## 📫 Connect With Me
 
 LinkedIn:
-(Add your LinkedIn URL here)
+ www.linkedin.com/in/dhanunjai-v-4ab73872
 
 ---
 
